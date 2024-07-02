@@ -62,4 +62,5 @@ int main(){
   cin>>str;
 
   s ans = inTOpost(str);
+  cout<<ans;
 }
